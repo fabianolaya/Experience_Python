@@ -13,7 +13,7 @@ from collections import *
 # print(mi_dic['dos'])
 
 #mi_dic = defaultdict(lambda :'nada')
-#mi_dic['uno'] = 'verde'
+#mi_dic['uno'] = 'verd'
 #mi_dic['dos'] = 'azul'
 
 #print(mi_dic['tres'])
